@@ -11,6 +11,10 @@ Streaming torrent client for node.js with web ui.
 
 Based on [torrent-stream](https://github.com/mafintosh/torrent-stream), inspired by [peerflix](https://github.com/mafintosh/peerflix).
 
+## Start Peerflix Server now
+
+[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://peervm.com?run=docker%20run%20-p%209000%3A9000%20hiteck%2Fpf&name=Peerflix%20Server&ref=)
+
 ## Usage
 
 1. `npm install -g peerflix-server`
